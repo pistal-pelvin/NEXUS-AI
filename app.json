@@ -7,7 +7,7 @@
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
-    "PREFIX":
+    "PREFIX":.
     {
       "description":"choose your prefix of bot",
       "value":".",
@@ -55,7 +55,7 @@
       "required":false
     }
     ,
-    "BOT_NAME" : {
+    "BOT_NAME" : {pistal pelvin 
        
       "description":"put A name for your bot",
       "value":"NEXUS-AI",
@@ -69,7 +69,7 @@
       "required":false
        
      },
-    "PUBLIC_MODE":
+    "PUBLIC_MODE":private
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
@@ -85,14 +85,14 @@
      "required" :false
     }  
 	  ,
-    "SESSION_ID":
+    "SESSION_ID":eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia05sRXRCcnU4eHNxajEzUU5OYzJMTGNiMVVZNVNvdlVhNHFQSVlkY2sxVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYlN6Q3BESXhWeVFXVUMwSTlId2dVazhIM2JKTW1Oang1NjRjbjltaGhUST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJTTUh1dVdHWCt3c1ZlSUF5SEltT0VJUzZCWFFDNmRmT1dJTE1yTS90RFZBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ6eTJsUVJERDU4QzJ6MS8vYnJ1ZVovYVo5RWF5MmUrVEl5Vk4yd1BnWkVJPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllFTmtsUjM0dVl0TmowdUpjdFlQK3YyQXcrSVY4cTZwQk9aQzdLbFpWRVE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlllL3VBVEJNV2tkUlVhUWpqbmorSVBzaE9RK1o3NVVybm9nbHp5TlZXQWs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUIxTG16L0ZQT2s4eS9oZXZXdThWRGNzNnYwMGtpazVMbTRlMEFtZ0FVbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieTdWWkgwV1M5Znhjd1N2RGloTThNZUNtVHgrRDA1em9hT1FxZWxVb2Z4MD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFZeXRwaGpzQktIUzZpL2hOQ2U0NmhPbTZJN3kwMWNTTUM5MjMwS2czWWRDZ2t6MWswaUUvYjJTVi90bUo5cnFmOFlUMkI3clJHaHUxOEdrM1hUVGpBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjUwLCJhZHZTZWNyZXRLZXkiOiJ3REV6NGxoZGlFZ1FuNVpsbWlySm9iczZKOTJtcnVnY09LNVN1M29yV1hvPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJJNWcxTV9saFNtR3RpMFRLR090LUlBIiwicGhvbmVJZCI6ImM4ZjM0ZmFmLWIzNzAtNDc1YS05ZGI5LWM2NzIxZmMzMmEzZCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ4alFyMnFwakJKVEhsc0srUU9KNzl3UjhETDA9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUtrSE5QVytZcmRPQlI3OUlsVm9TZ05HWER3PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkM1S0M2WUxDIiwibWUiOnsiaWQiOiIyNTQxMTM2MTE0NDg6N0BzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTUtPKy9ZR0VNT0dpTUVHR0FRZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5Ijoib2YyVWZSdGp5UUZKeEtneHdYT1NpYURjeW52K1U3L1dDVng3N2xNZWxrUT0iLCJhY2NvdW50U2lnbmF0dXJlIjoibkRTR2czNHB4M3VaUWVhY2NiNEZ5Z21nOStqSkxQUmF0djlrNTh6ZHRHNUoyLzBFeDdWaXRqUmNxWWhQb01ueFM3NEg3cHF6U0xLZHFaZjJRY0JZQVE9PSIsImRldmljZVNpZ25hdHVyZSI6IkJyODlLQlZwUkFlZHY1TWVaWldOZjlNTlluSW9tQlUxemtUZURQUzVoTG9XSVBGbEdsdWh4NzlxdzVVWWR3SXB5amZGLzR1YVlOYnRtZmFCd3dmRmpBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0MTEzNjExNDQ4OjdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCYUg5bEgwYlk4a0JTY1NvTWNGemtvbWczTXA3L2xPLzFnbGNlKzVUSHBaRSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0NzA1OTUzOCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFNOWMifQ==
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
       "value":"",
       "required":true
       
     },
-    "OWNER_NAME":
+    "OWNER_NAME:Pistal pelvin 
     {
     
     "desc": "Your Name",
