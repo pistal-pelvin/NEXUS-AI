@@ -7,7 +7,7 @@
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
-    "PREFIX":.
+    "PREFIX":
     {
       "description":"choose your prefix of bot",
       "value":".",
@@ -55,7 +55,7 @@
       "required":false
     }
     ,
-    "BOT_NAME" : {pistal pelvin 
+    "BOT_NAME" : {
        
       "description":"put A name for your bot",
       "value":"NEXUS-AI",
@@ -69,7 +69,7 @@
       "required":false
        
      },
-    "PUBLIC_MODE":private
+    "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
@@ -92,7 +92,7 @@
       "required":true
       
     },
-    "OWNER_NAME:Pistal pelvin 
+    "OWNER_NAME:
     {
     
     "desc": "Your Name",
